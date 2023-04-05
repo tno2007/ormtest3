@@ -1,0 +1,6 @@
+{
+    "require": {
+        "clue/framework-x": "dev-main",
+        "gabordemooij/redbean": "dev-master"
+    }
+}
